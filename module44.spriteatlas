@@ -103,6 +103,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 7fd49c329ad2110499c42e48ed53faa9, type: 3}
   - {fileID: 21300000, guid: 3fbe4942dea7edc4088c6b60bb2fdb14, type: 3}
   - {fileID: 21300000, guid: 012dc25259a59b247832fa06ecff51c2, type: 3}
+  - {fileID: 21300000, guid: 6fdd9952d2df31845b0add85d7ef39bc, type: 3}
   - {fileID: 21300000, guid: c97ea682424d45741a3c3e6af64f3cce, type: 3}
   - {fileID: 21300000, guid: 274de682bc60280488887e4f74fcda7c, type: 3}
   - {fileID: 21300000, guid: c1baf0a2eff0384449c81448bdf20833, type: 3}
@@ -114,6 +115,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: b27825341fedef84ebccdd67071e4eda, type: 3}
   - {fileID: 21300000, guid: dc76e074a5ba6434eb05a92acc3d5ea0, type: 3}
   - {fileID: 21300000, guid: e0e1b1746d1993e4e952b35ae73f9461, type: 3}
+  - {fileID: 21300000, guid: 01dff0841621798469bb0022f75e7264, type: 3}
   - {fileID: 21300000, guid: 9780dc94f848bda42aa1b4c0f2efcf08, type: 3}
   - {fileID: 21300000, guid: 8f3024c457076064ba66b63ecfa32df4, type: 3}
   - {fileID: 21300000, guid: 90cc0dc4a494eeb4896a73489a042a5c, type: 3}
@@ -128,6 +130,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: ee4b03b6270957f4ebf86a3c84e0a91a, type: 3}
   - {fileID: 21300000, guid: bd9689b6afb80d54b809785b2ddefb25, type: 3}
   - {fileID: 21300000, guid: c244e3d663909554284e31797d4ef1b9, type: 3}
+  - {fileID: 21300000, guid: 35893dd689d737a47945a7a8e73e01ce, type: 3}
   - {fileID: 21300000, guid: f99b3ed63377537499e4cb8105e96df8, type: 3}
   - {fileID: 21300000, guid: 2c6984f669937b84992c53b46c92ce24, type: 3}
   - {fileID: 21300000, guid: a5a60537d91690f4183b6cc0b270df7e, type: 3}
@@ -275,6 +278,7 @@ SpriteAtlas:
   - cjsgj_28
   - cjsgj_37
   - sgj_3xian
+  - lgdmx_icon_4
   - cjsgj_7
   - cjsgj_41_sgxml_1
   - small_icon_5
@@ -286,6 +290,7 @@ SpriteAtlas:
   - sgj_text_zhongjiangla 1
   - yuan_0000_yuan3
   - small_icon_mo_5
+  - lgdmx_icon_2
   - cjsgj_62
   - cjsgj_70
   - cjsgj_73
@@ -300,6 +305,7 @@ SpriteAtlas:
   - cjsgj_27
   - 1112
   - sgj_9xian
+  - lgdmx_icon_3
   - cjsgj_3
   - cjsgj_71
   - beijing
