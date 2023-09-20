@@ -80,7 +80,7 @@ SpriteAtlas:
     secondaryTextureSettings: {}
     variantMultiplier: 1
     packables:
-    - {fileID: 102900000, guid: 1df7277ac9883a04fa8009fbfbae4005, type: 3}
+    - {fileID: 102900000, guid: 83b96f140b25cee4f86e2773681f096e, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -136,7 +136,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: fd4db0451ffcfb744b20ae28f1cd7b99, type: 3}
   - {fileID: 21300000, guid: e153cc950dd6ffe47aeb1453bbed4ac8, type: 3}
   - {fileID: 21300000, guid: 4c387fe5e233bbf479b4ac8d09080c3f, type: 3}
-  - {fileID: 21300000, guid: 3eda9d06da1736a4fa1f598797660381, type: 3}
   - {fileID: 21300000, guid: 92c7c1465457baa43a829b3a76756af7, type: 3}
   - {fileID: 21300000, guid: 6bebaa469b479684aaa092e6010c927b, type: 3}
   - {fileID: 21300000, guid: ee4b03b6270957f4ebf86a3c84e0a91a, type: 3}
@@ -282,7 +281,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: bae8b16eeadaf004589d191e14dc81a7, type: 3}
   - {fileID: 21300000, guid: 1b803a6e8526ea64195c3e61ca837f62, type: 3}
   - {fileID: 21300000, guid: b24b407e29d8ab243822814f740d0807, type: 3}
-  - {fileID: 21300000, guid: 4ed860ae926b53a43839b6a8f003d8b8, type: 3}
   - {fileID: 21300000, guid: 926d32aeb08048145b2bda60bb1591dd, type: 3}
   - {fileID: 21300000, guid: e907ddde15b7f3f4abd19dfea696d704, type: 3}
   - {fileID: 21300000, guid: 0daac0eecb56d46429c66d1467e47690, type: 3}
@@ -346,7 +344,6 @@ SpriteAtlas:
   - cjsgj_61
   - sgml_6
   - sgj_4dian
-  - jinbi
   - cjsgj_22
   - small_icon_3
   - cjsgj_27
@@ -492,7 +489,6 @@ SpriteAtlas:
   - small_icon_mo_7
   - small_icon_6
   - sgj_7dian
-  - SGXML_Gold
   - small_icon_7
   - sgml_5
   - sgml_1
